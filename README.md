@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amber! <br/><a href="https://www.linkedin.com/in/ambermdudley/">Cybersecurity Professional</a> </a></h1>
+<h1>Hi, I'm Amber 👋🏽</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
