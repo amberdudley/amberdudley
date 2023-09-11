@@ -19,6 +19,7 @@
 
 
 [linkedin]:(https://linkedin.com/in/ambermdudley)
+<br>
 
 <h2> More about me:</h2>
 
