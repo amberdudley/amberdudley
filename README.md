@@ -2,16 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- [Hello World!](https://github.com/joshmadakor1/AD_PS)
+- [OpenVAS Vulnerability Management](https://github.com/joshmadakor1/AD_PS)
+- [Cybersecurity Vulnerability Assessment](https://github.com/joshmadakor1/AD_PS)
     
 <h2>🎖 Certifications</h2>
 
 - [CompTIA Security+ Certification](https://www.credly.com/badges/4ad5af77-0d83-4a37-a7da-e0eb0503c9f4)
-
-<h2>📺 YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
