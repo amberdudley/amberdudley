@@ -4,10 +4,14 @@
 
 - [OpenVAS Vulnerability Management](https://github.com/joshmadakor1/AD_PS)
 - [Cybersecurity Vulnerability Assessment](https://github.com/joshmadakor1/AD_PS)
+- [Enterprise Penetration Test](https://github.com/joshmadakor1/AD_PS)
+- [IT Compliance Audit](https://github.com/joshmadakor1/AD_PS)
     
 <h2>🎖 Certifications</h2>
 
-- [CompTIA Security+ Certification](https://www.credly.com/badges/4ad5af77-0d83-4a37-a7da-e0eb0503c9f4)
+- [CompTIA Security+](https://www.credly.com/badges/4ad5af77-0d83-4a37-a7da-e0eb0503c9f4)
+- [OneTrust GRC Professional](https://www.credly.com/badges/858311ad-1677-4ded-92e3-74fb4b37e7a5)
+
 
 <h2> 🤳 Connect with me:</h2>
 
